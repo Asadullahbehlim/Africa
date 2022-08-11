@@ -6,11 +6,17 @@ Hi All, I have created a beautiful iOS Application Named "Africa" By Using Swift
 Here's The Glimpse of Concepts I Have used ->
 
 •	JSON Data with Swift (basic and advanced approach).
+
 •	Grid Layouts (basic and advanced approach with a cool feature).
+
 •	MapKit Integration ( with another cool feature).
+
 •	Video Player (new SwiftUI feature).
+
 •	Launch Screen (new way).
+
 •	Swift programming concept: Extension, Generics.
+
 •	Prototype the whole application with SwiftUI framework.
 
 Watch This beautiful video and see its User Friendly layout system, with Tab menu showing the additional features, It’s an fully-featured iOS App 
